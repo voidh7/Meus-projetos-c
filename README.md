@@ -23,3 +23,8 @@ tela de help
 
 clear
 limpa a tela
+
+## V TERMINAL
+versão final da cuki
+digitei /help para ver os cmds
+ ops as funções de integração com amoracoin não estão prontas
